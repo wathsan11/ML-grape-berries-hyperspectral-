@@ -1,7 +1,5 @@
 # 🍇 Grape Berries Sugar Content Prediction using Hyperspectral Imaging
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wathsan11/ML-grape-berries-hyperspectral-/blob/main/GrapeBerriesHyperspectral.ipynb)
-
 ## Overview
 
 This project applies machine learning to predict the **sugar content (g/l)** of grape berries using **hyperspectral imaging data**. By capturing light reflectance across 204 spectral wavelength bands (approximately 397 nm to 1003 nm), the goal is to enable non-destructive, fast sugar estimation — a key quality indicator in viticulture and winemaking.
